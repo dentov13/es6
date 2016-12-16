@@ -1,4 +1,4 @@
-const MATH = {
+var MATH = {
   PI: 3.14159
 };
 
